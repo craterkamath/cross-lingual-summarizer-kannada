@@ -1,0 +1,6 @@
+*.pyc
+tests
+workspace
+data/*
+.translation-cache*
+.simplification-cache*

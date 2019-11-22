@@ -1,0 +1,8 @@
+nltk
+numpy
+sklearn
+requests
+polyglot
+regex
+joblib
+https://github.com/nisargjhaveri/tqe/archive/master.zip
