@@ -1,0 +1,30 @@
+true summary:
+
+CREAM of tartar, added to egg whites, helps them to foam when beaten. Bread bakes faster in a glass pan than in a metal one.  Vinegar added to the water keeps poached eggs from spreading into feathery tails.   Most cooks are well-versed in these culinary tips, though few understand the underlying physical and chemical principles that make them work. Neither did Arthur E. Grosser when as a 6-year-old he got his first lesson in the physical chemistry of cooking. His mother taught him how to boil an egg, adding salt to the water ''to keep it from cracking.''   Now, at the age of 47 and armed with a Ph.D. in chemistry, Dr.  Grosser knows that his mother did the right thing but for the wrong reason. Adding salt to the cooking water will not keep the egg from cracking, he notes, but it acts as first aid for a cracked egg, causing the leaking white to coagulate and seal the rift. Salt changes the electrical environment and breaks the weak bonds that hold liquid egg white protein in folded globules. The protein cooks faster because, once unfolded, it can re-form into the threedimensional structure of cooked (coagulated) egg white. A similar unfolding takes place if vinegar is added to the water when eggs are poached.
+
+
+simFusion:
+
+In mixing oil and water: An emulsifier is a chemical substance that allows oil to be mixed with water because it has the electrical properties of both. Oil molecules are not polar, which means they do not charge positively or negatively on the surface. But water is a polar molecule, positively charged at one end and negatively charged at the other. The emulsifier (for example, lecithin in the egg yolk) is partially polar and not partially polar; Its non-polar tip is soluble in oil and its polar tip is attractive to water, so it is able to mix the two ingredients together.
+
+
+coRank:
+
+Tartar's cream, added to the egg whites, helps to foam when beaten. Bread is cooked in a glass pan rather than a metal one. Vinegar added to water prevents poached eggs from spreading to feather tails.
+Tenderness comes from thin layers of insoluble fat, which is why cooks make it with cold fat, cold containers and ice water and chill it before rolling the dough. As the crust is cooked, thin layers of fat melt and release water and air, creating steam bubbles that separate the dough into layers.
+For muffins, the egg protein structure provides gluten; It hardens the dough and traps the gas in the tunnels. '' So, mix the muffin batter as low as possible.
+
+lex:
+Tartar's cream, added to the egg whites, helps to foam when beaten.Most cooks are familiar with these culinary tips, though few understand the physical and chemical principles of working.In Chemistry, Dr. Grocer knows his mother did the right thing but for the wrong reason.
+
+textrank:
+
+They say adding salt to cooking water will not prevent the egg from cracking, but it can serve as a first aid to a cracked egg, causing a leaky white color to freeze and seal the crack.In mixing oil and water: An emulsifier is a chemical substance that allows oil to be mixed with water because it has the electrical properties of both.The emulsifier (for example, lecithin in the egg yolk) is partially polar and not partially polar; Its non-polar tip is soluble in oil and its polar tip is attractive to water, so it is able to mix the two ingredients together.
+
+luhn:
+
+In defeating the egg whites, he explained that the cream of weak acid tartar weakly neutralizes the alkaline egg protein.Then the water molecules attracted to the electrical charge of the alkaline protein pass away and the proteins freeze and form more easily.The emulsifier (for example, lecithin in the egg yolk) is partially polar and not partially polar; Its non-polar tip is soluble in oil and its polar tip is attractive to water, so it is able to mix the two ingredients together.
+
+lsa:
+
+Salt changes the electrical environment and breaks down the weak bonds of liquid egg white protein in folded globules.Dr. As the grocers grew older and more and more cooked, they began to wonder why the recipes forced unusual ways of combining certain sequences, utensils, temperatures, times and ingredients.After their success, they "reverse tyrannical recipes," "The Cookbook Decoder, or Culinary Alchemy Explained by Brooklyn-based McGill University chemist recently" (Beaufort Books, $ 13.95).
